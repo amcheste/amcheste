@@ -8,9 +8,9 @@ This is the second major technology transition I've navigated. The first was clo
 
 ### Why I Build
 
-My CS degree taught me how to architect production systems. My Applied Math degree lets me understand what's happening under the hood of AI models. My security background means I see the risks others gloss over. And my MBA (in progress) is sharpening the finance lens to prove ROI, not just assume it.
+My Computer Science degree taught me how to architect production systems. My Applied Math degree lets me understand what's happening under the hood of AI models. My security background means I see the risks others gloss over. And my MBA (in progress) is sharpening the finance lens to prove ROI, not just assume it.
 
-All of that serves one obsession: efficiency.
+All of that serves one obsession: **efficiency**.
 
 ### What I'm Working On
 
