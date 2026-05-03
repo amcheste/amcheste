@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner-equation.png" alt="Alan Chester · @amcheste — (ε, δ) — For any ε > 0, there exists a δ > 0.">
-</p>
+<img src="assets/banner-equation.png" alt="Alan Chester · @amcheste — (ε, δ) — For any ε > 0, there exists a δ > 0." width="100%">
 
 ---
 
