@@ -46,7 +46,7 @@ Research and writing on agentic systems, multi-agent trust, product organization
 
 ## The current questions
 
-**On organizational theory.** How does the unit of product work change when teams include autonomous agents, and what is the right organizational architecture for variable-elasticity teams?
+**On organizational theory.** How does the unit of work change when teams include autonomous agents, and what is the right organizational architecture for variable-elasticity teams?
 
 **On reinforcement learning.** Can offline reinforcement learning produce reliable market-making policies under realistic data constraints?
 
