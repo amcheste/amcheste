@@ -1,5 +1,5 @@
 <!--
-  github.com/amcheste profile README · v3
+  github.com/amcheste profile README · v7
   Brand system: alanchester-brand · ∀ ε > 0, ∃ δ > 0
 -->
 
@@ -18,37 +18,47 @@ The work is finding it.
 
 ---
 
-I work at the intersection of cloud infrastructure, agentic AI systems, and multi-agent trust. This profile is where the technical and research work lives.
+I work at the intersection of cloud infrastructure, agentic AI systems, reinforcement learning, and multi-agent trust. This profile is where the technical and research work lives.
 
 ---
 
 ## What I build
 
+**Reinforcement learning**
+
+* **[pokemon-red-ai](https://github.com/amcheste/pokemon-red-ai)** · Reinforcement learning research on observation representations in Pokémon Red. Pixel, symbolic, and hybrid conditions under capacity-matched encoders. RecurrentPPO via SB3-Contrib.
+
 **Agentic systems**
 
 * **[claude-teams-operator](https://github.com/amcheste/claude-teams-operator)** · Kubernetes operator that runs Claude Code agent teams as distributed pods.
 * **[ea-agent](https://github.com/amcheste/ea-agent)** · AI personal executive assistant built around Obsidian.
+
+**Research tooling**
+
+* **[overleaf-mcp](https://github.com/amcheste/overleaf-mcp)** · MCP server for editing Overleaf LaTeX projects from Claude. Published to PyPI. Single-user by design, auditable, built for academic researchers.
 * **[paper-skills](https://github.com/amcheste/paper-skills)** · Claude Code skills for academic paper triage and Obsidian integration.
 
 **Applied experiments**
 
 * **[golf-coach-agent](https://github.com/amcheste/golf-coach-agent)** · Vision LLM applied to golf swing analysis.
-* **[pokemon-red-ai](https://github.com/amcheste/pokemon-red-ai)** · Reinforcement learning toolkit for training agents to play Pokémon Red.
 
 **Identity and tooling**
 
 * **[alanchester-brand](https://github.com/amcheste/alanchester-brand)** · Personal brand system, expressed as code. Tokens, components, the equation as identity.
+* **[engineering-handbook](https://github.com/amcheste/engineering-handbook)** · Personal engineering handbook. Philosophies, workflows, and tooling for how I build software. Versioned with semver.
 * **[mac-dev-setup](https://github.com/amcheste/mac-dev-setup)** · One command from zero to productive on macOS.
 
 ## What I publish
 
-Research and writing on agentic systems, multi-agent trust, product organization design, and the architecture of high-elasticity teams. Currently drafting a paper for HICSS 2027 on architecting product pods for the agentic era. Shorter notes go to LinkedIn.
+Research and writing on reinforcement learning, agentic systems, multi-agent trust, and team architectures for the agentic era. Currently drafting a paper for ARLET 2026 (NeurIPS workshop). 
+
+The question: in long-horizon reinforcement learning, do symbolic observations beat pixel observations once encoder capacity is properly controlled? Pokémon Red is the empirical environment. 
 
 ## The current questions
 
-**On organizational theory.** How does the unit of work change when teams include autonomous agents, and what is the right organizational architecture for variable-elasticity teams?
+**On reinforcement learning.** How does observation representation affect sample efficiency in long-horizon reinforcement learning? Pixel versus symbolic versus hybrid observations under capacity-matched encoders are the conditions under study.
 
-**On reinforcement learning.** Can offline reinforcement learning produce reliable market-making policies under realistic data constraints?
+**On team architecture.** How does the unit of work change when teams include autonomous agents, and what structures support variable-elasticity teams?
 
 **On multi-agent security.** How does trust topology affect security in multi-agent LLM systems? Centralized orchestrator versus peer-authenticated trust.
 
