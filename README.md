@@ -68,7 +68,9 @@ The question: in long-horizon reinforcement learning, do symbolic observations b
 
 About fifteen years across kernel engineering, Kubernetes platform development, cloud security, and product leadership. Currently leading a team of product managers at Oracle Cloud Infrastructure.
 
-Dual B.S. in Computer Science and Applied Mathematics, NC State. MBA candidate, NC State Jenkins Graduate School of Management.
+Dual B.S. in Computer Science and Applied Mathematics, NC State. 
+
+MBA candidate, NC State Jenkins Graduate School of Management.
 
 ## Find me
 
