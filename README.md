@@ -36,7 +36,6 @@ I work at the intersection of cloud infrastructure, agentic AI systems, reinforc
 **Research tooling**
 
 * **[overleaf-mcp](https://github.com/amcheste/overleaf-mcp)** · MCP server for editing Overleaf LaTeX projects from Claude. Published to PyPI. Single-user by design, auditable, built for academic researchers.
-* **[paper-skills](https://github.com/amcheste/paper-skills)** · Claude Code skills for academic paper triage and Obsidian integration.
 
 **Applied experiments**
 
