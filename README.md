@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Alan Chester · @amcheste — (ε, δ) — For any ε > 0, there exists a δ > 0.](https://github.com/amcheste/amcheste/raw/main/assets/banner-equation.png)](https://github.com/amcheste/amcheste/blob/main/assets/banner-equation.png)
+[![Alan Chester · @amcheste · (ε, δ) · For any ε > 0, there exists a δ > 0.](https://github.com/amcheste/amcheste/raw/main/assets/banner-equation.png)](https://github.com/amcheste/amcheste/blob/main/assets/banner-equation.png)
 
 For any standard, there exists a step that lands inside it.
 The work is finding it.
