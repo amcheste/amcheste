@@ -24,24 +24,24 @@ I work at the intersection of cloud infrastructure, agentic AI systems, reinforc
 
 ## What I build
 
-**Reinforcement learning**
+### Reinforcement learning
 
 * **[pokemon-red-ai](https://github.com/amcheste/pokemon-red-ai)** · Reinforcement learning research on observation representations in Pokémon Red. Pixel, symbolic, and hybrid conditions under capacity-matched encoders. RecurrentPPO via SB3-Contrib.
 
-**Agentic systems**
+### Agentic systems
 
 * **[claude-teams-operator](https://github.com/amcheste/claude-teams-operator)** · Kubernetes operator that runs Claude Code agent teams as distributed pods.
 * **[ea-agent](https://github.com/amcheste/ea-agent)** · AI personal executive assistant built around Obsidian.
 
-**Research tooling**
+### Research tooling
 
 * **[overleaf-mcp](https://github.com/amcheste/overleaf-mcp)** · MCP server for editing Overleaf LaTeX projects from Claude. Published to PyPI. Single-user by design, auditable, built for academic researchers.
 
-**Applied experiments**
+### Applied experiments
 
 * **[golf-coach-agent](https://github.com/amcheste/golf-coach-agent)** · Vision LLM applied to golf swing analysis.
 
-**Identity and tooling**
+### Identity and tooling
 
 * **[alanchester-brand](https://github.com/amcheste/alanchester-brand)** · Personal brand system, expressed as code. Tokens, components, the equation as identity.
 * **[engineering-handbook](https://github.com/amcheste/engineering-handbook)** · Personal engineering handbook. Philosophies, workflows, and tooling for how I build software. Versioned with semver.
@@ -49,9 +49,9 @@ I work at the intersection of cloud infrastructure, agentic AI systems, reinforc
 
 ## What I publish
 
-Research and writing on reinforcement learning, agentic systems, multi-agent trust, and team architectures for the agentic era. Currently drafting a paper for ARLET 2026 (NeurIPS workshop). 
+Research and writing on reinforcement learning, agentic systems, multi-agent trust, and team architectures for the agentic era. Currently drafting a paper for ARLET 2026 (NeurIPS workshop).
 
-The question: in long-horizon reinforcement learning, do symbolic observations beat pixel observations once encoder capacity is properly controlled? Pokémon Red is the empirical environment. 
+The question: in long-horizon reinforcement learning, do symbolic observations beat pixel observations once encoder capacity is properly controlled? Pokémon Red is the empirical environment.
 
 ## The current questions
 
@@ -67,7 +67,7 @@ The question: in long-horizon reinforcement learning, do symbolic observations b
 
 About fifteen years across kernel engineering, Kubernetes platform development, cloud security, and product leadership. Currently leading a team of product managers at Oracle Cloud Infrastructure.
 
-Dual B.S. in Computer Science and Applied Mathematics, NC State. 
+Dual B.S. in Computer Science and Applied Mathematics, NC State.
 
 MBA candidate, NC State Jenkins Graduate School of Management.
 
@@ -76,7 +76,7 @@ MBA candidate, NC State Jenkins Graduate School of Management.
 * **Brand system** · [alanchester-brand](https://github.com/amcheste/alanchester-brand)
 * **Personal site** · [alanchester.com](https://alanchester.com) *(coming)*
 * **LinkedIn** · [alan-chester](https://www.linkedin.com/in/alan-chester-8757b98b/)
-* **Email** · amcheste@gmail.com
+* **Email** · [amcheste@gmail.com](mailto:amcheste@gmail.com)
 
 ---
 

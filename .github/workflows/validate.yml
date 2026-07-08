@@ -1,0 +1,18 @@
+name: Validate
+
+# Thin caller stub: docs-repo validate from amcheste/gh-workflows
+# (markdownlint, offline link check, commit lint, semver suggestion).
+# Required checks report as "validate / Lint" and "validate / Commit Lint".
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    uses: amcheste/gh-workflows/.github/workflows/reusable-validate.yml@v1.1.0
