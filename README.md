@@ -1,5 +1,5 @@
 <!--
-  github.com/amcheste profile README · v7
+  github.com/amcheste profile README · v8
   Brand system: alanchester-brand · ∀ ε > 0, ∃ δ > 0
 -->
 
@@ -30,21 +30,18 @@ I work at the intersection of cloud infrastructure, agentic AI systems, reinforc
 
 ### Agentic systems
 
-* **[claude-teams-operator](https://github.com/amcheste/claude-teams-operator)** · Kubernetes operator that runs Claude Code agent teams as distributed pods.
-* **[ea-agent](https://github.com/amcheste/ea-agent)** · AI personal executive assistant built around Obsidian.
+* **[kagents](https://github.com/amcheste/kagents)** · Kubernetes-native platform for orchestrating AI knowledge-work teams. Declarative AgentTeam resources with budget caps, approval gates, and native support for Anthropic's Agent Teams protocol.
+* **[golf-coach-agent](https://github.com/amcheste/golf-coach-agent)** · AI golf coach agent. Vision LLM swing analysis over Rapsodo MLM2PRO session data, delivered as focused coaching reports.
 
 ### Research tooling
 
 * **[overleaf-mcp](https://github.com/amcheste/overleaf-mcp)** · MCP server for editing Overleaf LaTeX projects from Claude. Published to PyPI. Single-user by design, auditable, built for academic researchers.
 
-### Applied experiments
-
-* **[golf-coach-agent](https://github.com/amcheste/golf-coach-agent)** · Vision LLM applied to golf swing analysis.
-
 ### Identity and tooling
 
 * **[alanchester-brand](https://github.com/amcheste/alanchester-brand)** · Personal brand system, expressed as code. Tokens, components, the equation as identity.
 * **[engineering-handbook](https://github.com/amcheste/engineering-handbook)** · Personal engineering handbook. Philosophies, workflows, and tooling for how I build software. Versioned with semver.
+* **[gh-workflows](https://github.com/amcheste/gh-workflows)** · Centralized reusable GitHub Actions workflows for every amcheste repo. Change CI once, apply it everywhere.
 * **[mac-dev-setup](https://github.com/amcheste/mac-dev-setup)** · One command from zero to productive on macOS.
 
 ## What I publish
